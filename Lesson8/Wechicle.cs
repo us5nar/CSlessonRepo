@@ -9,6 +9,8 @@ public class Wechicle : IComparable
     bool isFree;
     string manufacter;
     public Wechicle()
+	//Comment1
+	//Comment2
     {
         speed = 100;
         color = "red";

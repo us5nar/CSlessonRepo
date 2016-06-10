@@ -1,0 +1,4 @@
+*.exe
+*.dll
+/Lesson8/obj/*
+/Lesson8/bin/*
